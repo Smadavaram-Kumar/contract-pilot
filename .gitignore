@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Local environment files
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# Virtual environment
+.venv/
+venv/
+
+# Output and samples
+output/
+*.log
